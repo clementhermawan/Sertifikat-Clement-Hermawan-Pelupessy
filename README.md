@@ -21,7 +21,7 @@ Saya juga memiliki pengalaman *freelance* mengerjakan proyek-proyek website, ter
 ## 🧾 Sertifikat & Penghargaan
 
 - 🥈 **Juara 2 Lomba Cerdas Cermat IPTEK** – Himpunan Mahasiswa Elektro Politeknik Negeri Ujung Pandang (6-8 Januari 2023)
-![](/Assets/1.JPG)
+![](/Assets/1.jpg)
 
 - 🛡️ **Penetration Testing untuk Pemula** – Coding Studio (6 Februari 2023)
 ![](Assets/9.JPG)
