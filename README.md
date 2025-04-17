@@ -24,37 +24,37 @@ Saya juga memiliki pengalaman *freelance* mengerjakan proyek-proyek website, ter
 ![](/Assets/1.jpg)
 
 - 🛡️ **Penetration Testing untuk Pemula** – Coding Studio (6 Februari 2023)
-![](Assets/9.JPG)
+![](/Assets/9.jpg)
 
 - 🕵️‍♂️ **Mastering Cyber Security: OSINT** – Rentind Academy (12 Februari 2023)
-![](Assets/2.JPG)
+![](/Assets/2.jpg)
 
 - 🖧 **Junior Network Administrator** – Telkom Prima Cipta Certifia (5-10 Desember 2022)
-![](Assets/3.JPG)
+![](/Assets/3.jpg)
 
 - 🖧 **Certificate of Competence: Junior Network Administrator** – BNSP (20 Maret 2023)
 [[CLEMENT HERMAWAN PELUPESSY.pdf]]
 
 - 🔐 **Fundamental Cyber Security** – Coding Studio (1 Juli 2023)
-![](Assets/4.JPG)
+![](/Assets/4.jpg)
 
 - 🌐 **Eksplorasi Kehebatan dan Fleksibilitas ESP32 untuk Pengembangan IoT** – Creative Station
 [[sertifikat.pdf]]
 
 - 🛡️ **Sertifikat KOMINFO** – Kementerian Komunikasi dan Informatika Republik Indonesia
-![](Assets/10.JPG)
+![](/Assets/10.jpg)
 
 - 🧾 **Sertifikat Penghargaan** – Laporan identifikasi kerentanan insiden siber domain *sulselprov.go.id* (Sensitive Data Exposure)
-![](Assets/5.JPG)
+![](/Assets/5.jpg)
 
 - 🧾 **Sertifikat Penghargaan** – Laporan kerentanan insiden siber aset *sulselprov.go.id* (Cross-Site Scripting - XSS)
-![](Assets/6.JPG)
+![](/Assets/6.jpg)
 
 - ✅ **Valid Report** – Kerentanan pada website pemerintah "RIAU" (via VVIP Program/BSSN
-![](Assets/7.JPG)
+![](/Assets/7.jpg)
 
 - ✅ **Valid Report** – Kerentanan pada website pemerintah "BAWASLU" (via VVIP Program/BSSN)
-![](Assets/8.JPG)
+![](/Assets/8.jpg)
 
 
 ## 🚀 Goals & Interests
